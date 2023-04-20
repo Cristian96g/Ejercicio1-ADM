@@ -1,0 +1,6 @@
+Alumno: Cristian Ezequiel Gómez
+Cuatrimestre: 3 cuatrimestre
+Comisión: dwn3cv
+Turno: Noche
+Materia: Aplicaciones para Dispositivos Móviles
+Profesor: Medina Sergio
